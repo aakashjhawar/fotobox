@@ -95,7 +95,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
-    concurrent-ruby (1.1.7)
+    concurrent-ruby (1.1.8)
     crass (1.0.6)
     devise (4.7.1)
       bcrypt (~> 3.0)
@@ -111,7 +111,7 @@ GEM
     haml (5.2.1)
       temple (>= 0.8.0)
       tilt
-    i18n (1.8.7)
+    i18n (1.8.8)
       concurrent-ruby (~> 1.0)
     io-like (0.3.1)
     jbuilder (2.10.1)
@@ -133,7 +133,7 @@ GEM
     method_source (1.0.0)
     mime-types (3.3.1)
       mime-types-data (~> 3.2015)
-    mime-types-data (3.2019.1009)
+    mime-types-data (3.2020.1104)
     mimemagic (0.3.5)
     mini_mime (1.0.2)
     mini_portile2 (2.5.0)
@@ -144,7 +144,7 @@ GEM
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     orm_adapter (0.5.0)
-    paperclip (6.0.0)
+    paperclip (6.1.0)
       activemodel (>= 4.2.0)
       activesupport (>= 4.2.0)
       mime-types
@@ -264,7 +264,7 @@ DEPENDENCIES
   jbuilder (~> 2.10)
   jquery-rails
   listen (>= 3.0.5, < 3.5)
-  paperclip (~> 6.0.0)
+  paperclip (~> 6.1.0)
   pg (>= 0.18, < 2.0)
   puma (~> 5.2)
   rails (~> 6.1.1)

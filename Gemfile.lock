@@ -110,7 +110,7 @@ GEM
     ffi (1.15.5)
     globalid (1.1.0)
       activesupport (>= 5.0)
-    haml (6.0.12)
+    haml (6.1.2)
       temple (>= 0.8.2)
       thor
       tilt
@@ -244,11 +244,11 @@ GEM
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
     strscan (3.0.6)
-    temple (0.9.1)
+    temple (0.10.2)
     terrapin (0.6.0)
       climate_control (>= 0.0.3, < 1.0)
     thor (1.2.2)
-    tilt (2.0.11)
+    tilt (2.2.0)
     timeout (0.4.0)
     turbolinks (5.2.1)
       turbolinks-source (~> 5.2)
@@ -282,7 +282,7 @@ DEPENDENCIES
   chromedriver-helper
   coffee-rails (~> 5.0)
   devise (~> 4.9)
-  haml (~> 6.0)
+  haml (~> 6.1)
   jbuilder (~> 2.11)
   jquery-rails
   listen (>= 3.0.5, < 3.9)

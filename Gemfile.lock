@@ -110,7 +110,7 @@ GEM
     ffi (1.15.5)
     globalid (1.1.0)
       activesupport (>= 5.0)
-    haml (6.2.0)
+    haml (6.2.3)
       temple (>= 0.8.2)
       thor
       tilt
@@ -245,7 +245,7 @@ GEM
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
     strscan (3.0.6)
-    temple (0.10.2)
+    temple (0.10.3)
     terrapin (0.6.0)
       climate_control (>= 0.0.3, < 1.0)
     thor (1.2.2)
